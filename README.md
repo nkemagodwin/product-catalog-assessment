@@ -84,4 +84,4 @@ Troubleshooting
 Deployment Issues
 
 npm run build minification problems
-
+The live app 'https://product-catalog-assessment.vercel.app/'
